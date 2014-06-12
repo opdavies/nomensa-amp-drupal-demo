@@ -8,7 +8,7 @@ projects[nomensa_amp][version] = "1.1"
 
 ; Libraries
 libraries[nomensa_amp][download][type] = "get"
-libraries[nomensa_amp][download][url] = "https://github.com/nomensa/Accessible-Media-Player/archive/master.zip"
+libraries[nomensa_amp][download][url] = "https://github.com/nomensa/Accessible-Media-Player/archive/v.2.0.tar.gz"
 libraries[nomensa_amp][destination] = "libraries"
 libraries[nomensa_amp][directory_name] = "nomensa_amp"
 
