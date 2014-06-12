@@ -16,6 +16,6 @@ libraries[nomensa_amp][directory_name] = "nomensa_amp"
 ; Custom modules and themes
 projects[nomensa_amp_base][type] = "module"
 projects[nomensa_amp_base][download][type] = "git"
-projects[nomensa_amp_base][download][url] = "git@github.com:opdavies/nomensa-amp-drupal-base.git"
+projects[nomensa_amp_base][download][url] = "https://github.com/opdavies/nomensa-amp-drupal-base.git"
 projects[nomensa_amp_base][download][branch] = "6.x"
 projects[nomensa_amp_base][directory_name] = "nomensa_amp_base"
